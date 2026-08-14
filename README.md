@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3200&pause=1200&color=E5C76B&center=true&vCenter=true&width=700&letterSpacing=2px&lines=BUILDING+INTERPRETABLE+%26+FEDERATED+ML+SYSTEMS;PREPPING+FOR+MS+IN+CS%2FAI%2FML+%E2%80%94+FALL+2028;DSA+GRIND+%C2%B7+KARPATHY'S+ZERO+TO+HERO+%C2%B7+GRE%2FTOEFL+DEC+2026" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=3200&pause=1200&color=E5C76B&center=true&vCenter=true&width=700&letterSpacing=2px&lines=TEACHING+MACHINES+TO+EXPLAIN+THEMSELVES;FIRST-AUTHOR+%C3%97+3+%E2%80%94+ENSEMBLES%2C+XAI%2C+FEDERATED+LEARNING;CODE+BY+DAY%2C+PAPERS+BY+NIGHT" alt="typing-svg" />
 
 </div>
 
@@ -23,11 +23,9 @@
 ```yaml
 name:        Manav Jain
 status:      3rd Year B.Tech — Information Technology, DJ Sanghvi College of Engineering
-gpa:         8.70 / 10.0
+gpa:         8.50 / 10.0
 focus:       CS · AI/ML — Explainable AI, Federated Learning, Agentic Systems
-publications: 3 research papers
-target_intake: Fall 2028
-target_schools: [UT Austin, Georgia Tech, CMU, Texas A&M, USC, ...]
+publications: 3 papers, first author on all
 ```
 
 ---
@@ -72,21 +70,18 @@ Built a model analyzing trading behavior patterns to surface insights on decisio
 
 ---
 
-## 🎓 TRAINING REGIMEN
+## 📚 CURRENTLY LEARNING
 
 ```yaml
-current:
-  - daily DSA practice — targeting post-masters SWE/ML interviews
+now:
   - Andrej Karpathy's "Zero to Hero" — neural networks from scratch
-upcoming:
-  - GRE + TOEFL — December 2026
 ```
 
 ---
 
 ## 🏅 COMMENDATIONS
 
-- 📄 **3 research papers** authored
+- 📄 **3 research papers** — first author on all
 - 🏆 Hackathon **finalist** — multiple events
 - 🧠 **Google Developers Group** (college chapter) — ML Research Co-Committee
 - 🎙️ **MUNSOC** — Delegation Affairs
@@ -100,6 +95,7 @@ upcoming:
 
 [![LinkedIn](https://img.shields.io/badge/-Manav%20Jain-5B3FA0?style=flat-square&logo=linkedin&logoColor=E5C76B&labelColor=0A0A0C)](https://www.linkedin.com/in/manav-jain-554635242/)
 [![Email](https://img.shields.io/badge/-manavjain019%40gmail.com-5B3FA0?style=flat-square&logo=gmail&logoColor=E5C76B&labelColor=0A0A0C)](mailto:manavjain019@gmail.com)
+[![Resume](https://img.shields.io/badge/-Resume-5B3FA0?style=flat-square&logo=adobeacrobatreader&logoColor=E5C76B&labelColor=0A0A0C)](resume.pdf)
 
 <br/>
 
